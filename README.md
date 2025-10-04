@@ -1,6 +1,5 @@
 ### Hi there 👋
-Cloud enthustiast with a knack for Cloud-Infrastructure, Azure, Terraform, networking, automation and k8s
-
+Cloud enthustiast with a knack for Cloud-Infrastructure, Kubernetes, Terraform, automation and networking
 <!--
 **Tim-herbie/Tim-herbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
